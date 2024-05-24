@@ -1,7 +1,6 @@
 Sovol Theme for Mainsail - by Corodius
 
-Create a folder under Machine named .theme then put all files in this folder
-
-You have to click the settings and activate invisible folders
-
-
+Download this repo as a zip first, and extract the files ready.
+On your printer's Mainsail interface, go to the Machine tab, and first click Settings - and tick "Hidden Files"
+Create a folder named .theme
+in this folder, upload all the files you extracted from the zip. Then just refresh your browser and it should apply.
