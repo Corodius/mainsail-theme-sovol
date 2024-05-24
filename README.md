@@ -2,8 +2,8 @@
     
 #### Install Via Script:
     cd ~/
-    git clone https://github.com/ZeroGDesign/zerog-mainsail-theme.git
-    bash ~/zerog-mainsail-theme/install.sh
+    git clone https://github.com/Corodius/mainsail-theme-sovol.git
+    bash ~/mainsail-theme-sovol/install.sh
 
 #### Install manually.
 
