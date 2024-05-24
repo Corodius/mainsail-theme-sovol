@@ -5,11 +5,11 @@ Sovol Theme for Mainsail
 :root {
     --Primary:        #282a36;    /*Voron:Black*/
     --Secondary:      #ff5555;    /*Voron:Red*/
-    --c_blue:         #00eafb;    /*cryd_blue*/
-    --c_gray:         #2b2b2b;    /*cryd:grey*/
-    --Blue:           #00eafb; 
+    --sovol_blue:     #00aa9c;    /*Corodius Sovol Blue*/
+    --dark_grey:      #2b2b2b;    /*Corodius Dark Grey*/
+    --Blue:           #00aa9c; 
     --Red:            #ff5555;
-    --Warnings:       #00eafb;
+    --Warnings:       #00aa9c;
     --Text:           #f8f8f2;
     --DarkerText:     #f5f5f2;
     --Background:     #44475a;
@@ -21,32 +21,32 @@ Sovol Theme for Mainsail
 #nav-header .v-toolbar__title {
     font-size: 24px;
     vertical-align: middle;
-    color: #00eafb;
+    color: #00aa9c;
     font-family: monospace;
 }
 
 .v-application .warning {
-    background-color: var(--c_blue) !important;
-    border-color: var(--c_blue);
+    background-color: var(--sovol_blue) !important;
+    border-color: var(--sovol_blue);
 }
 
 .v-application .primary {
     background-color: var(--c_grey) !important;
-    border-color: var(--c_blue) !important;
+    border-color: var(--sovol_blue) !important;
 }
 
 .v-application .success--text {
-    color: var(--c_blue) !important;
-    caret-color: var(--c_blue) !important;
+    color: var(--sovol_blue) !important;
+    caret-color: var(--sovol_blue) !important;
 }
 
 .v-application .primary--text {
-    color: var(--c_blue) !important;
-    caret-color: var(--c_blue) !important;
+    color: var(--sovol_blue) !important;
+    caret-color: var(--sovol_blue) !important;
 }
 
 .v-application a {
-    color: var(--c_blue);
+    color: var(--sovol_blue);
 }
 
  .v-btn:not(.v-btn--outlined).warning {
@@ -58,21 +58,21 @@ Sovol Theme for Mainsail
 }
 
 .v-application .text-body-2, .v-application .text-button {
-    color: var(--c_blue);
+    color: var(--sovol_blue);
 }
 
 .v-progress-circular__overlay .v-card__text {
-    stroke: var(--c_blue) !important;
+    stroke: var(--sovol_blue) !important;
 }
 
 .v-slider__track-fill.primary {
-    background-color: var(--c_blue) !important;
-    border-color: var(--c_blue) !important;
+    background-color: var(--sovol_blue) !important;
+    border-color: var(--sovol_blue) !important;
 }
 
 .v-slider__thumb.primary {
-    background-color: var(--c_blue) !important;
-    border-color: var(--c_blue) !important;
+    background-color: var(--sovol_blue) !important;
+    border-color: var(--sovol_blue) !important;
 }
 
 /*
