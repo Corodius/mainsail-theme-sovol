@@ -31,7 +31,7 @@ Sovol Theme for Mainsail
 }
 
 .v-application .primary {
-    background-color: var(--c_grey) !important;
+    background-color: var(--dark_grey) !important;
     border-color: var(--sovol_blue) !important;
 }
 
@@ -50,7 +50,7 @@ Sovol Theme for Mainsail
 }
 
  .v-btn:not(.v-btn--outlined).warning {
-    color: var(--c_grey) !important;
+    color: var(--dark_grey) !important;
 }
 
 .v-btn:not(.v-btn--outlined).accent, .v-btn:not(.v-btn--outlined).error, .v-btn:not(.v-btn--outlined).info, .v-btn:not(.v-btn--outlined).primary, .v-btn:not(.v-btn--outlined).secondary, .v-btn:not(.v-btn--outlined).success {
