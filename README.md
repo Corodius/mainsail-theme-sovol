@@ -1,9 +1,9 @@
 # Sovol Theme for Mainsail - by Corodius
     
 #### Install Via Script:
-    ```cd ~/
+    cd ~/
     git clone https://github.com/ZeroGDesign/zerog-mainsail-theme.git
-    bash ~/zerog-mainsail-theme/install.sh```
+    bash ~/zerog-mainsail-theme/install.sh
 
 #### Install manually.
 
